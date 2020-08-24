@@ -20,3 +20,4 @@ I'd rather not accept pull requests for anything more than typo corrections etc 
 * [Describe an object](/things/describe-an-object.md) - practice writing and observational skills by picking some mundane object and writing about it.
 * [Write down some things you can do right now](/things/could-be-doing.md) - a tool for figuring out some current possibilities, and an exercise for practicing idea generation.
 * [Body Check In](/things/body-check-in.md) - more observational writing work, and helps develop skills of paying attention to your body.
+* [Brain Dump](/things/brain-dump.md) - a free writing exercise. Good for practicing unstructure writing and for getting you unstuck on something.
