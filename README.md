@@ -17,3 +17,4 @@ I'd rather not accept pull requests for anything more than typo corrections etc 
 
 * [Toss and catch a ball](/things/throw-a-ball.md) - an easy and fun way to spend a brief period of time focusing on physical movement and working on hand-eye coordination.
 * [Read out loud](/things/read-out-loud.md) - a good way to do more reading and to spend some time listening to the sound of your own voice.
+* [Describe an object](/things/describe-an-object.md) - practice writing and observational skills by picking some mundane object and writing about it.
