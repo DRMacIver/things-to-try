@@ -12,3 +12,8 @@ Ideally when you find yourself at a loss for what to do you should be able to ju
 Currently they're mostly designed with an audience and user base of one, me, but I'd really like other people to try them out and let me know how they find them. Please do, and please file issues with questions, comments, ideas, etc.
 
 I'd rather not accept pull requests for anything more than typo corrections etc as I've vague plans to do stuff with this that make it important that I retain ownership of it.
+
+# Index of Things
+
+* [Toss and catch a ball](/things/throw-a-ball.md) - an easy and fun way to spend a brief period of time focusing on physical movement and working on hand-eye coordination.
+* [Read out loud](/things/read-out-loud.md) - a good way to do more reading and to spend some time listening to the sound of your own voice.
