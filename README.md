@@ -2,7 +2,7 @@
 
 This is a collection of exercises and activities that are designed to satisfy a bunch of useful criteria:
 
-1. They should always be achievable, to the point that struggling to do them should be taken as diagnostic that you're not in a good mental state right now.
+1. They should always be achievable unless you are in some way actively prevented from achieving them, to the point that struggling to do them when you usually can should be taken as diagnostic that you're not in a good state right now.
 2. They should not be too time consuming - twenty minutes maximum, but ideally much less.
 3. They should be moderately life improving, or at least better than doom scrolling, watching TV, etc.
 4. They should be things that are endlessly repeatable, possibly by making them harder as you get used to them.
