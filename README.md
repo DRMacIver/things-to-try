@@ -19,3 +19,4 @@ I'd rather not accept pull requests for anything more than typo corrections etc 
 * [Read out loud](/things/read-out-loud.md) - a good way to do more reading and to spend some time listening to the sound of your own voice.
 * [Describe an object](/things/describe-an-object.md) - practice writing and observational skills by picking some mundane object and writing about it.
 * [Write down some things you can do right now](/things/could-be-doing.md) - a tool for figuring out some current possibilities, and an exercise for practicing idea generation.
+* [Body Check In](/things/body-check-in.md) - more observational writing work, and helps develop skills of paying attention to your body.
