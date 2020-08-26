@@ -22,3 +22,4 @@ I'd rather not accept pull requests for anything more than typo corrections etc 
 * [Body Check In](/things/body-check-in.md) - more observational writing work, and helps develop skills of paying attention to your body.
 * [Brain Dump](/things/brain-dump.md) - a free writing exercise. Good for practicing unstructure writing and for getting you unstuck on something.
 * [Lie Down and Listen](/things/lie-and-listen.md) - a good brain/body reset for when you're feeling spacey. Requires a podcast or audio book or similar.
+* [Jump Up and Down](/things/jump.md) - a comparatively easy way to get your heart rate up and do some in place exercise
