@@ -14,3 +14,4 @@ Variations:
 * Try reading more than one page.
 * Occasionally pause and rephrase what you just said in your own words.
 * Try recording yourself as you do this and listening to it on playback (I highly recommend this one, but it's a bit uncomfortable)
+* Rather than turning to a random page, gradually work through a single book a few pages at a time, resuming from wherever you left off last time.
