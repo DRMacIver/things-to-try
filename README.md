@@ -23,3 +23,5 @@ I'd rather not accept pull requests for anything more than typo corrections etc 
 * [Brain Dump](/things/brain-dump.md) - a free writing exercise. Good for practicing unstructure writing and for getting you unstuck on something.
 * [Lie Down and Listen](/things/lie-and-listen.md) - a good brain/body reset for when you're feeling spacey. Requires a podcast or audio book or similar.
 * [Jump Up and Down](/things/jump.md) - a comparatively easy way to get your heart rate up and do some in place exercise
+* [Surface things you'd like to eat more of](/things/food-inventory.md) - good exercise in inventory taking and helps enjoy your diet more.
+* [Write down all your problems](/things/problems.md) - helps surface things about your life that you could improve and have been ignoring
